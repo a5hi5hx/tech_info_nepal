@@ -116,7 +116,9 @@
 ## Tech Bloggers
 - [Ekendra Lamsal](https://ekendraonline.com/) - Freshly published articles and reviews, and sometimes critics.
 - [Geshan's Blog](https://geshan.com.np/) - Sr. Software Engineer | Agile follower | Speaker | Google Developer Expert
-
+- [Nj Subedi](https://njs.com.np/blog/) - Just another technical founder.
+- [verbose tethics](https://blog.sparsh.dev/) - engineering software and times in life
+- [Samundra Khatri](https://www.samundrakc.com.np/blog/) - Samundra Khatri
 
 ## YouTube Channels
 - [GadgetByte Nepal](https://www.youtube.com/user/gadgetbytenepal) - GadgetByte Nepal
