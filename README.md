@@ -34,7 +34,17 @@
 - [Fusemachines Inc.](https://www.fusemachines.com/) - Fusemachines is positioned to disrupt the business landscape through our AI Talent Solutions
 - [Genese Solution Limited](https://www.genesesolution.com/) - A leading global Software Development & Cloud Consulting Company
 - [Genese Cloud Academy](https://www.genesecloud.academy/) - Introduce, train, and upskill students in Cloud Computing ecosystem
-
+- [Strike sales](https://www.strikesales.com/) - Shop in international marketplace and get your products devivered to you in Nepal.
+- [Thulo Supermarket](https://thulo.com/) - Thulo Supermarket
+- [UG Bazaar](https://www.ugbazaar.com/) - Send gifts to Nepal. Send cakes to Nepal. Online Shopping
+- [Yarsa Bazar](https://yarsabazar.com)
+- [Janaki Tech](http://janakitech.com/) - Janaki Technology
+- [Leapfrog Technology](https://www.lftechnology.com/) - We build world-class software for you
+- [Mandala IT Solutions](https://mandalaitsolutions.com/) - Mandala IT Solutions
+- [Moonlit Solutions](https://www.moonlit.solutions/) - Data Engineering, Data Analysis, Forecast Models, Data Visualization Dashboards, Survey and Market Research
+- [Yarsa Labs](https://yarsa.io/) - Yarsa Labs
+- [New IT Venture](https://www.newitventure.com/en/) - New it venture based in Kathmandu.
+- [Skein Softwares](https://skeinsoft.com/)
 
 
 ## Organization
