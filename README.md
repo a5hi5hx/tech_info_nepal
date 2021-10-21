@@ -73,6 +73,7 @@
 - [Thulo Supermarket](https://thulo.com/) - Thulo Supermarket
 - [UG Bazaar](https://www.ugbazaar.com/) - Send gifts to Nepal. Send cakes to Nepal. Online Shopping
 - [Yarsa Bazar](https://yarsabazar.com)
+- [khetifood](https://www.khetifood.com)-food and vegetable delivery service in Nepal
 
 
 ## Vendor Marketplaces
@@ -111,6 +112,7 @@
 ## Tech Blogs
 - [GadgetByte](https://www.gadgetbytenepal.com/) - GadgetByte Nepal
 - [TechGuff](https://techguff.com/) - Techguff is your technical news website.
+- [Techpana](https://techpana.com/)- Techpana website.
 
 
 ## Education
@@ -135,6 +137,7 @@
 - [Nj Subedi](https://njs.com.np/blog/) - Just another technical founder.
 - [verbose tethics](https://blog.sparsh.dev/) - engineering software and times in life
 - [Samundra Khatri](https://www.samundrakc.com.np/blog/) - Samundra Khatri
+- 
 
 ## YouTube Channels
 - [GadgetByte Nepal](https://www.youtube.com/user/gadgetbytenepal) - GadgetByte Nepal
@@ -146,6 +149,7 @@
 - [Nepal Drives](https://www.youtube.com/channel/UCvKCK6__-Gqut5vhuzSpXzA) - News on cars in nepal and international countries.
 - [Carmandu](https://www.youtube.com/channel/UCICbxV8k_oFsXS7ljwSuyMA) - All about Cars
 - [Oliz Store](https://www.youtube.com/channel/UCYzJGfe3dXbLOifGwprNosg) - Gadget reviews.
+- [Techlekh](https://www.youtube.com/c/TechLekhYT)-gadgets reviews..
 
 
 ## ISP Internet Service Providers
