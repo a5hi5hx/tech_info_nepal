@@ -112,6 +112,7 @@
 ## Tech Blogs
 - [GadgetByte](https://www.gadgetbytenepal.com/) - GadgetByte Nepal
 - [TechGuff](https://techguff.com/) - Techguff is your technical news website.
+- [Techpana](https://techpana.com/)- Techpana website.
 
 
 ## Education
