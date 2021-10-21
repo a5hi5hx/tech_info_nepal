@@ -73,6 +73,7 @@
 - [Thulo Supermarket](https://thulo.com/) - Thulo Supermarket
 - [UG Bazaar](https://www.ugbazaar.com/) - Send gifts to Nepal. Send cakes to Nepal. Online Shopping
 - [Yarsa Bazar](https://yarsabazar.com)
+- [khetifood](https://www.khetifood.com)-food and vegetable delivery service in Nepal
 
 
 ## Vendor Marketplaces
